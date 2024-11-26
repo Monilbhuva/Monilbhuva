@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/monil bhuva" target="blank"><img src="https://img.shields.io/twitter/follow/monil bhuva?logo=twitter&style=for-the-badge" alt="monil bhuva" /></a> </p>
 
-- 🔭 I’m currently pursuing *CE 👨‍💻*
+- 🔭 I’m currently pursuing *CE-AI 👨‍💻*
 
-- 🌱 I’m currently learning *DSA, Python, Data communication, DBMS*
+- 🌱 I’m currently learning *AI*
 
 - 📫 How to reach me *monilbhuva15@gmail.com*
 
